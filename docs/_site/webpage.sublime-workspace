@@ -1,0 +1,648 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Bo",
+				"BOTH\tstatement"
+			],
+			[
+				"NS",
+				"NSEW\tstatement"
+			],
+			[
+				"Bot",
+				"BOTTOM\tstatement"
+			],
+			[
+				"Left",
+				"LEFT\tstatement"
+			],
+			[
+				"Rig",
+				"RIGHT\tstatement"
+			],
+			[
+				"main",
+				"mainloop\tfunction"
+			],
+			[
+				"nframes",
+				"nframes_var\tstatement"
+			],
+			[
+				"adv",
+				"advance_frame\tfunction"
+			],
+			[
+				"curr",
+				"Current"
+			],
+			[
+				"Cur",
+				"currentFrameVar"
+			],
+			[
+				"butt",
+				"buttonFrame\tstatement"
+			],
+			[
+				"colu",
+				"columnconfigure\tstatement"
+			],
+			[
+				"colum",
+				"columnconfigure"
+			],
+			[
+				"but",
+				"buttonFrame\tstatement"
+			],
+			[
+				"nf",
+				"nframes_var"
+			],
+			[
+				"nfra",
+				"nframes_var\tstatement"
+			],
+			[
+				"loc",
+				"localMaster\tstatement"
+			],
+			[
+				"get",
+				"get_next_data"
+			],
+			[
+				"Fig",
+				"FigureCanvasTkAgg\tclass"
+			],
+			[
+				"ex",
+				"exit\tinstance"
+			],
+			[
+				"click",
+				"click_link_by_id"
+			],
+			[
+				"word",
+				"word_num\tstatement"
+			],
+			[
+				"comp",
+				"compensationScale"
+			],
+			[
+				"ignored",
+				"ignored"
+			],
+			[
+				"pre",
+				"pre_group_mask_sum"
+			],
+			[
+				"mak",
+				"makedirs"
+			],
+			[
+				"kin",
+				"kindle_h\tstatement"
+			],
+			[
+				"ratio",
+				"ratio_w\tstatement"
+			],
+			[
+				"kindl",
+				"kindle_w\tstatement"
+			],
+			[
+				"save",
+				"savefig\tfunction"
+			],
+			[
+				"text",
+				"textvariable"
+			],
+			[
+				"import",
+				"importlib\tmodule"
+			],
+			[
+				"int_",
+				"int_file_basename\tstatement"
+			],
+			[
+				"sum",
+				"sum_file_basename\tstatement"
+			],
+			[
+				"sec",
+				"section_txt\tstatement"
+			],
+			[
+				"source",
+				"sourceFileName\tstatement"
+			],
+			[
+				"sour",
+				"sourceFileName\tstatement"
+			],
+			[
+				"scale",
+				"scale_factor"
+			],
+			[
+				"compensated",
+				"compensated_ydata"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"typ",
+				"typecode\tstatement"
+			],
+			[
+				"oct",
+				"octets\tparam"
+			],
+			[
+				"class",
+				"classmethod\tclass"
+			],
+			[
+				"hs",
+				"hash\tfunction"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/python3.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"markdown",
+				"Preferences: MarkdownLivePreview Settings"
+			],
+			[
+				"markdownlive",
+				"MarkdownLivePreview: Clear the cache"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pri",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"LaTeXTools: Check System",
+				"LaTeXTools: Check system"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 542.0,
+		"history":
+		[
+			"please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"print('Error validating download (got %s instead of %s)",
+			"dh = hashlib.sha256(by).hexdigest()",
+			"by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read()",
+			"urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) )",
+			"ipp = sublime.installed_packages_path()",
+			"pf = 'Package Control.sublime-package'",
+			"h",
+			"h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'",
+			"import urllib.request,os,hashlib",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"LaTeXTools: Check System",
+			"install package",
+			"install",
+			"install package",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/fred/Desktop/0eipi1-mock/webpage"
+	],
+	"file_history":
+	[
+		"/Users/fred/Desktop/0eipi1-mock/webpage/.gitignore",
+		"/Users/fred/Desktop/0eipi1-mock/webpage/Readme.md",
+		"/Users/fred/Desktop/0eipi1-mock/webpage/about.md",
+		"/Users/fred/Desktop/0eipi1-mock/webpage/resources_stu.md",
+		"/Users/fred/Desktop/0eipi1-mock/webpage/_config.yml",
+		"/Users/fred/Desktop/0eipi1-mock/webpage/resources_edu.md",
+		"/Users/fred/GitHub/minima/Readme.md",
+		"/Users/fred/Library/Application Support/Sublime Text 3/Packages/MarkdownPreview/MarkdownPreview.sublime-settings",
+		"/Users/fred/GitHub/jekyll-for-designers/minima-master/_includes/sidebar.html",
+		"/Users/fred/GitHub/jekyll-for-designers/minima-master/index.md",
+		"/Users/fred/GitHub/jekyll-for-designers/minima-master/_config.yml",
+		"/Users/fred/GitHub/jekyll-for-designers/minima-master/_layouts/home.html",
+		"/Users/fred/GitHub/jekyll-for-designers/minima-master/_layouts/page.html",
+		"/Users/fred/GitHub/jekyll-for-designers/minima-master/_includes/footer.html",
+		"/Users/fred/GitHub/jekyll-for-designers/minima-master/_includes/header.html",
+		"/Users/fred/GitHub/jekyll-for-designers/minima-master/_site/about/index.html",
+		"/Users/fred/GitHub/jekyll-for-designers/minima-master/resources_stu.md",
+		"/Users/fred/GitHub/jekyll-for-designers/minima-master/resources_edu.md",
+		"/Users/fred/GitHub/jekyll-for-designers/minima-master/about.md",
+		"/Users/fred/GitHub/jekyll-for-designers/minima-master/_layouts/default.html",
+		"/Users/fred/GitHub/jekyll-for-designers/minima-master/_includes/head.html",
+		"/Users/fred/GitHub/jekyll-for-designers/minima-master/4_about.md",
+		"/Users/fred/GitHub/jekyll-for-designers/minima-master/_posts/2018-05-13-Fun-with-stuff!!!.md",
+		"/Users/fred/GitHub/jekyll-for-designers/minima-master/2_stu_resources.md",
+		"/Users/fred/GitHub/jekyll-for-designers/minima-master/3_edu_resources.md",
+		"/Users/fred/GitHub/jekyll-for-designers/minima-master/.gitignore",
+		"/Users/fred/GitHub/jekyll-for-designers/blog/_config.yml",
+		"/Users/fred/GitHub/jekyll-for-designers/blog/personal_resources.md",
+		"/Users/fred/GitHub/jekyll-for-designers/blog/.gitignore",
+		"/Users/fred/GitHub/jekyll-for-designers/minima/_includes/footer.html",
+		"/Users/fred/GitHub/jekyll-for-designers/blog2/_config.yml",
+		"/Users/fred/GitHub/jekyll-for-designers-working/_config.yml",
+		"/Users/fred/GitHub/jekyll-for-designers-working/.gitignore",
+		"/Users/fred/Desktop/ComputeringLog.txt",
+		"/Users/fred/Library/Application Support/Sublime Text 3/Installed Packages/Package Control.sublime-package",
+		"/Users/fred/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/fred/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/fred/Documents/GitHub/jekyll_playground/test_site/_config.yml",
+		"/Users/fred/Documents/GitHub/jekyll_playground/test_site/about.md",
+		"/Users/fred/Documents/GitHub/jekyll_playground/test_site/Gemfile",
+		"/Users/fred/Documents/GitHub/jekyll_playground/test_site/index.md",
+		"/Users/fred/Documents/GitHub/jekyll_playground/test_site/404.html",
+		"/Volumes/Backpack/GoogleDump/Takeout 3/index.html",
+		"/Users/fred/Documents/GitHub/startjekyll/Gemfile",
+		"/Users/fred/Documents/GitHub/minima/css/main.scss",
+		"/Users/fred/Documents/GitHub/minima/index.html",
+		"/Users/fred/Documents/GitHub/minima/_layouts/default.html",
+		"/Users/fred/Documents/GitHub/minima/_includes/head.html",
+		"/Users/fred/Documents/GitHub/minima/_includes/footer.html",
+		"/Users/fred/Documents/GitHub/test-site/_config.yml",
+		"/Users/fred/Documents/GitHub/simple_site/Gemfile",
+		"/Users/fred/Documents/GitHub/simple_site/_config.yml",
+		"/Users/fred/Documents/GitHub/simple_site/.gitignore",
+		"/Users/fred/Desktop/MotionPhysics/.gitignore",
+		"/Users/fred/Desktop/MotionPhysics/.git_ignore",
+		"/Users/fred/Desktop/MotionPhysics/.gitignore.txt",
+		"/Users/fred/jupyterhub/jupyterhub-pydata-2016/jupyterhub_config.py",
+		"/Users/fred/jupyterhub/jupyterhub_config.py",
+		"/Users/fred/Desktop/test.py",
+		"/Users/fred/python/miniconda3/lib/python3.6/site-packages/jupyterhub/app.py",
+		"/Users/fred/Desktop/uncopiers/sumint/gui.py",
+		"/Users/fred/Desktop/image_demo.py",
+		"/Users/fred/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/fred/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/fred/Library/Application Support/Sublime Text 3/Packages/User/python3.sublime-build",
+		"/Users/fred/Desktop/test.txt",
+		"/Users/fred/.bash_profile",
+		"/Users/fred/python/Lab-scripts/Motion_study/Planning.txt",
+		"/Users/fred/Desktop/test.html",
+		"/Users/fred/Desktop/18_01-USD475-Application/07-Letter-of-introduction.txt",
+		"/Users/fred/Desktop/18_01-USD475-Application/06-Address-wide-range.txt",
+		"/Users/fred/Desktop/18_01-USD475-Application/01-Responsibilities-Sub.txt",
+		"/Users/fred/Desktop/18_01-USD475-Application/02-Responsibilities-Uncopiers.txt",
+		"/Users/fred/Desktop/18_01-USD475-Application/03-Responsibilities-Pilots.txt",
+		"/Users/fred/Desktop/18_01-USD475-Application/04-Extracurriculars.txt",
+		"/Users/fred/Desktop/18_01-USD475-Application/05-Outstanding-teacher.txt",
+		"/Users/fred/Desktop/18_01-USD475-Application/Outstanding-teacher.txt",
+		"/Users/fred/Desktop/18_01-USD475-Application/Letter-of-introduction.txt",
+		"/Users/fred/Desktop/18_01-USD475-Application/Address-wide-range.txt",
+		"/Users/fred/Desktop/18_01-USD475-Application/Responsibilities-Sub.txt",
+		"/Users/fred/Desktop/18_01-USD475-Application/Responsibilities-Uncopiers.txt",
+		"/Users/fred/Desktop/TCLI-KS-2017.txt",
+		"/Users/fred/Desktop/retag.py",
+		"/Users/fred/Desktop/Impressive-0.10.4/impressive.py",
+		"/Users/fred/Documents/Talk20MHK/1801/Images/Notes.txt",
+		"/Users/fred/Desktop/fondu/README",
+		"/Users/fred/Desktop/CHECKSUM.SHA512",
+		"/Users/fred/Desktop/fix-spacechem-os-x-master/Fix Spacechem.app/Contents/Resources/script",
+		"/Users/fred/Desktop/processing_test/test.py",
+		"/Users/fred/Correspondence-VC/Dad-1217-Guns.txt",
+		"/Users/fred/Correspondence-VC/_Readme.txt",
+		"/Users/fred/Audio/Amplifier/Projects/Valve Amplifier 01/Simulations/Ayumi-Models/EL34.inc",
+		"/Users/fred/Audio/Amplifier/Projects/Valve Amplifier 01/Simulations/Ayumi-Models/EL34T.inc",
+		"/Users/fred/Audio/Amplifier/Projects/Valve Amplifier 01/Simulations/Duncan-Models/dmtriodep.inc",
+		"/Users/fred/Documents/LTSpice/AmpClass Valve Amp/6ca7.inc",
+		"/Users/fred/Documents/LTSpice/AmpClass Valve Amp/dmtriodep.inc",
+		"/usr/local/bin/spyder3",
+		"/Users/fred/Desktop/DeathStar/Shape_small.py",
+		"/Users/fred/Desktop/CD-Import/rename.py",
+		"/Users/fred/Audiobooks/Tessa Dare/import glob.py",
+		"/Users/fred/Desktop/crawling/crawling.py",
+		"/Users/fred/Desktop/tutorial/tutorial/spiders/quotes_spider.py",
+		"/Users/fred/Desktop/tutorial/tutorial/spiders/mhklibrary_spider.py",
+		"/Users/fred/Desktop/crawler/crawler.py",
+		"/Users/fred/Desktop/quotes.json",
+		"/Users/fred/Desktop/MIT-6.0001-IntroductionToComputation/PSet2/my-hangman.py",
+		"/Users/fred/Desktop/MIT-6.0001-IntroductionToComputation/PSet1/6.001-Lec1.py",
+		"/Users/fred/Desktop/6.001-Lec1.py",
+		"/Users/fred/python/uncopiers/sumint/test.py",
+		"/Users/fred/python/uncopiers/sumint/partition_whists.py",
+		"/Users/fred/python/uncopiers/sumint/new_count_compare.py",
+		"/Users/fred/Documents/School/ThesisWritings/Outline/Outline.txt",
+		"/Users/fred/Documents/School/ThesisResearch/AcousticsIntro/AcousticsIntro.tex",
+		"/Users/fred/Documents/School/Sections/Readme.txt",
+		"/Users/fred/Desktop/Slackware Notes.txt",
+		"/Users/fred/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/6DE130BC-21F9-4B5C-9CD7-64F1DB5E1AA3/data UPW5_4_20nmGNP.txt",
+		"/Users/fred/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/4F547236-2438-46C8-A359-833D973D9972/data UPW.txt",
+		"/Users/fred/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/755158A5-CCD2-4157-B80D-D7F9DBC5B219/data UPW.txt",
+		"/Users/fred/Desktop/CyclingSplit/data H2O2 31%_cycling.txt",
+		"/Users/fred/Desktop/CyclingSplit/data H2O2 31%_cycling-Bubble.txt",
+		"/Users/fred/Desktop/CyclingSplit/data H2O2 31%_cycling-20nm.txt",
+		"/Users/fred/Desktop/CyclingSplit/SplitCyclingFile.py",
+		"/Users/fred/Desktop/Pall/Recipes/Updates/170420.03-UPW/PSlstwU.set",
+		"/Users/fred/Desktop/Pall/Recipes/Updates/170420.02-UPW/PSlstwU.set",
+		"/Users/fred/Desktop/Pall/Recipes/Updates/170420.01-UPW/PSlstwU.set",
+		"/Users/fred/Desktop/Pall/Visits/06-Apr17-UPW/170401-UPW/2000-AC-1HzSweep/Settings-data/PSlstwAC.set",
+		"/Users/fred/Desktop/Pall/Recipes/Updates/170419.01-UPW-AC/17041901.txt",
+		"/Users/fred/Desktop/Pall/Visits/06-Apr17-UPW/170401-UPW/1804-CT-20psi/170418.txt"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 295.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 112.0
+	},
+	"output.markdown":
+	{
+		"height": 120.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "webpage.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
