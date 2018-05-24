@@ -1,5 +1,5 @@
 # jekyll ignore
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+docs/_site/
+docs/.sass-cache/
+docs/.jekyll-cache/
+docs/.jekyll-metadata
