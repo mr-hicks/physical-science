@@ -15,12 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 title: Physical Science with Mr. Hicks
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the course website for ... with Mr. Hicks.
+  This is the course website for Physical with Mr. Hicks.
   Here within lies all the knowledge, well a tiny subset.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  mr-hicks
 
 # Build settings
 markdown: kramdown
