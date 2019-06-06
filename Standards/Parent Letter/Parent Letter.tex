@@ -41,7 +41,9 @@
 \usepackage{newtxtext}
 \setkomafont{disposition}{\bfseries}
 \usepackage{fancyref}           %Automatically adds Table (tab:' ') or Figure (fig:' ')
-%\usepackage{textdate}
+\usepackage{texdate}
+\initcurrdate
+\def\setdateformat{e\ b\ y\ }
 
 
 \renewcommand{\headfont}{\normalfont}
@@ -56,7 +58,7 @@
 %\ihead{Name:}
 %\chead{Hour:}
 %\ohead{Date:}
-\ifoot{Rev. \today}
+\ifoot{Revised\printdate}
 \cfoot{\maintitle}
 \ofoot{\thepage}
 \newcommand{\maintitle}{Standards Referenced Grading in Physical Science}
