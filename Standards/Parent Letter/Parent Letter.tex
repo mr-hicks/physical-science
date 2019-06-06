@@ -1,0 +1,188 @@
+\documentclass[14pt, fleqn, paper=letter, oneside]{scrartcl}
+
+\newcommand{\includehead}{false}
+\newcommand{\includefoot}{true}
+
+% set basic page format
+\usepackage[headsepline=\includehead, footsepline=\includefoot]{scrlayer-scrpage} 
+\usepackage[margin=0.5in,
+    footskip=1.5\baselineskip,
+    headsep=0.5\baselineskip,
+    includehead=\includehead, includefoot=\includefoot]{geometry}   %Fixed margins
+%\usepackage[compact]{titlesec}
+
+%\usepackage{setspace}
+%\onehalfspace
+%\doublespace    
+
+% image support
+\renewcommand{\topfraction}{0.85}   %Fixes float spacing
+\renewcommand{\textfraction}{0.1}
+\renewcommand{\floatpagefraction}{0.75}
+\usepackage{graphicx}
+	\graphicspath{{/Users/fred/Library/TeXShop/Images/}{./Images/}}
+\usepackage[space]{grffile}		
+
+% symbol support
+\usepackage{siunitx}    %SI unit : \si{\'unit'} or \SI{}{\'unit'}
+\sisetup{detect-all}
+\usepackage{chemfig}    %Write chemical formulas
+\usepackage{mathtools}  %Basic math an extension of amsmath
+
+% formatting support
+\usepackage{multicol}   %Multiple cols body : command \multicols{}{'text'}
+\usepackage{multirow}   %Multiple row spanning in tables : \multirow{}{width}{'text'}
+\usepackage{enumitem}   %Enumeration control
+\usepackage{hyperref} % hyperlinks
+\usepackage{soul} % highlighting with \hl{command}
+
+
+% font and date format
+\usepackage{newtxtext}
+\setkomafont{disposition}{\bfseries}
+\usepackage{fancyref}           %Automatically adds Table (tab:' ') or Figure (fig:' ')
+%\usepackage{textdate}
+
+
+\renewcommand{\headfont}{\normalfont}
+\renewcommand{\footfont}{\normalfont}
+
+% useful commands
+\newcommand{\biu}[1]{\textbf{\emph{\underline{1}}}}
+\newcommand{\centerframe}[1]{ % this command makes a box around the content
+    {\centering\fbox{\begin{minipage}{0.975\columnwidth}1\end{minipage}}}}
+
+% document commands
+%\ihead{Name:}
+%\chead{Hour:}
+%\ohead{Date:}
+\ifoot{Rev. \today}
+\cfoot{\maintitle}
+\ofoot{\thepage}
+\newcommand{\maintitle}{Standards Referenced Grading in Physical Science}
+
+%===================================
+\begin{document}
+\section*{\maintitle}
+
+\begin{multicols}{2}
+For the 2019-2020 school year the Physical Science teachers are switching to standards-referenced grading.
+Our goal is to increase clarity when communicating what students actually know or can do.
+
+\subsection*{Background}
+There are three pillars to the the science standards passed down to us by the state of Kansas.
+
+\begin{itemize}
+  \item Disciplinary Core Ideas
+  \item Science and Engineering Practices
+  \item Crosscutting Concepts
+\end{itemize}
+
+Our standards are based off of those three pillars are.
+
+\begin{itemize}
+\item Core Concepts
+\item Practices - Lab Notebook
+\item Practices - Lab Reports
+\end{itemize}
+
+Two of our three standards emphasize the practices of science because these are the tools and skills that will be most universally applicable to students futures.
+
+Throughout both the core ideas and the practices we will incorporate the crosscutting concepts.
+
+
+\subsection*{Standards Referenced}
+A standard is a level of knowledge or demonstration of skill that your student shows.
+Rather than work towards and accumulate points, it is the demonstration of a skill or idea that earns a grade.
+
+To emphasize this difference we are shifting from a percentage based system to a numerical scale; 0, 1, 2, 3, and 4.
+
+A 1 means that the student is just developing the concepts.
+A 2 means that the student possesses the foundational knowledge required.
+A 3 means that students have reached the expected level of understanding.
+A 4 means that the student has reached an advanced level of understanding.
+
+In general:
+  * 1 is about a D
+  * 2 is about a C
+  * 3 is about a B
+  * 4 is about an A
+
+For your students transcript, we will convert their grades to a typical letter grade.
+
+\subsection*{Our Standards}
+\subsubsection*{Core Ideas}
+Throughout the year we will have different units.
+Each unit will end with a written test.
+The average proficiency of ALL of these tests will determine your students grade for this standard.
+
+We believe that traditional testing is an appropriate way of determining conceptual knowledge.
+
+On each test there will be 4 sections corresponding to each of the levels of understanding 1, 2, 3, and 4.
+Every student will start with the first section and demonstrate their understanding of those concepts by achieving 90\% or higher on that section.
+Students will then work through the subsequently harder sections of the test.
+
+The highest level completed with sufficient mastery (percent scored) will determine the overall standard for that test.
+
+\subsubsection*{Practices - Lab Notebooks}
+Your student will keep a lab notebook for the entire year containing all of their notes, experimental observations, journal entries, and classwork throughout the semester.
+
+This standard is a cumulative standard.
+
+Once a week we will sit down with your student and have a conference where we discuss where they are at with the material.
+At this time we will review their lab notebook with them, reflecting on the quality of their notes, clarity of writing, observations about experiments, and so on.
+Based on this meeting we will assign a score of 1-4 for that week.
+The score we assign during the final week will be the final score of that semester.
+
+Students are learning to organize their thoughts and we do not expect them to be perfect from the beginning.
+We instead expect students to grow throughout the semester, reaching the expected level by the end.
+
+As such we have two different proficiency scales, one for each semester.
+The first semester will focus on completion and clarity, whereas the second semester will focus on how well students are utilizing their notebook as a tool for learning.
+
+\subsubsection*{Practices - Lab Reports}
+Each unit will have a single over-arching lab where students will have to develop and test the basic model that the unit is covering.
+At the end of the unit, after the test, there will be a work day for the students to finish compiling their observations and notes into a final lab report.
+
+This is essential because communication is a fundamental aspect of ALL endeavors.
+
+This standard is also cumulative.
+The students final score will be determined by the last lab report of the semester.
+
+
+\end{multicols}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}

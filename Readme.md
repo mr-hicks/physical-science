@@ -1,13 +1,18 @@
-# Mr. Hicks github repository for teaching
+# Physical Science - Jeffrey
 
-Here is maintained all of the teaching resources I have collected and generated as well as a blog hosted on github pages that acts as a plan book and a journal.
+Here is some of the outward facing content that is useful for more selective access, or just not as easy to put on the website for whatever reason.
 
-The general structure is the webpage is split out into its own github project.
-It pulls the readme files out of the units in order to generate the educator section of the website.
-Generated materials that are needed for the students are stored in the unit folder (/units/resource) and linked or imported to the blog.
-In this fashion from one semester to the next the student materials can be re-ordered as needed.
+Here are basic descriptions.
 
-The readme files of each unit contain the most recent lesson plan of each topic.
-To see what they used to look like when taught at a past time, do the following:
-    
-    Insert a section explaining how to roll back time in github.
+## Standards
+Our school is transitioning to standards referenced grading.
+As such we have to write out our proficiency scales, and standards for the year.
+
+Additionally there are:
+
+  * Letter to parents describing the grading
+  * Year overview
+  * Proficiency for the three standards we are using
+    * Core ideas
+    * Practices - Lab notebook
+    * Practices - Lab reports
